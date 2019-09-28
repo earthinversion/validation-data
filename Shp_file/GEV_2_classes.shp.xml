@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20190809</CreaDate><CreaTime>19353000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20190809" Time="193530">RasterToPolygon GEV_S1_high_resolution_6classes1.tif "D:\Collaboration machine learning for EVA\GEV_Map_Kumar\Shp_file\GEV_2_classes.shp" SIMPLIFY EVA_level</Process></lineage></DataProperties></Esri></metadata>
